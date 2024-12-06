@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/demo/pom.xml" />
         <option value="$PROJECT_DIR$/rest-demo/rest-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/cloudVendorApisvc/cloud-vendor-api/pom.xml" />
       </list>
     </option>
   </component>

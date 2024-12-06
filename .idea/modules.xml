@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Intellij-Workspace.iml" filepath="$PROJECT_DIR$/.idea/Intellij-Workspace.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/rest-demo/rest-demo/rest-demo.iml" filepath="$PROJECT_DIR$/rest-demo/rest-demo/rest-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudVendorApisvc/cloud-vendor-api/rest-demo.iml" filepath="$PROJECT_DIR$/cloudVendorApisvc/cloud-vendor-api/rest-demo.iml" />
     </modules>
   </component>
 </project>
